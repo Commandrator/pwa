@@ -1,0 +1,27 @@
+[submodule "cebebis/cebebis"]
+	path = cebebis/cebebis
+	url = https://github.com/Commandrator/cebebis
+[submodule "cebebis/cebebis-db"]
+	path = cebebis/cebebis-db
+	url = https://github.com/Commandrator/cebebis-db
+[submodule "cebebis/kidmedAnketi"]
+	path = cebebis/kidmedAnketi
+	url = https://github.com/Commandrator/kidmedAnketi
+[submodule "rstp_player"]
+	path = rstp_player
+	url = https://github.com/Commandrator/rstp_player
+[submodule "magaza"]
+	path = magaza
+	url = https://github.com/Commandrator/magaza
+[submodule "store"]
+	path = store
+	url = https://github.com/Commandrator/store
+[submodule "katalog-uygulamas-"]
+	path = katalog-uygulamas-
+	url = https://github.com/Commandrator/katalog-uygulamas-
+[submodule "stok-takip/depozit_takip"]
+	path = stok-takip/depozit_takip
+	url = https://github.com/Commandrator/depozit_takip
+[submodule "stok-takip/abone_takip_sistemi"]
+	path = stok-takip/abone_takip_sistemi
+	url = https://github.com/Commandrator/abone_takip_sistemi
