@@ -25,3 +25,6 @@
 [submodule "stok-takip/abone_takip_sistemi"]
 	path = stok-takip/abone_takip_sistemi
 	url = https://github.com/Commandrator/abone_takip_sistemi
+[submodule "dancekoltuk"]
+	path = dancekoltuk
+	url = https://github.com/FatmanurSahin08/dancekoltuk
